@@ -7,22 +7,22 @@ One-liner installation
 sudo apt-get update && git clone https://github.com/Xenoret/Clean.git && cd Clean && sudo cp -var clean.py /usr/local/bin/ && cd /usr/local/bin && sudo chown root.root clean.py && sudo chmod +x clean.py && cd ~ && sudo clean.py
 
 
-Executing clean.py as a standalone executable:
+# Executing clean.py as a standalone executable:
 
-#sudo apt-get update 
+sudo apt-get update 
 
-#git clone https://github.com/Xenoret/Clean.git
+git clone https://github.com/Xenoret/Clean.git
 
-#cd Clean
+cd Clean
 
-#sudo cp -var clean.py /usr/local/bin/
+sudo cp -var clean.py /usr/local/bin/
 
-#cd /usr/local/bin
+cd /usr/local/bin
 
-#sudo chown root.root clean.py
+sudo chown root.root clean.py
 
-#sudo chmod +x clean.py
+sudo chmod +x clean.py
 
-#cd ~
+cd ~
 
-#sudo clean.py
+sudo clean.py
