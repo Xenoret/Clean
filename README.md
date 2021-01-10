@@ -1,9 +1,9 @@
 # Clean
 Fast clean your Linux system in one comand: clean.py
 
-===============
+---------------
 {INSTALL LINUX}
-===============
+---------------
 
 # One-liner installation
 
